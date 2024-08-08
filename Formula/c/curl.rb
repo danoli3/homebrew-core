@@ -65,6 +65,8 @@ class Curl < Formula
       --with-secure-transport
       --with-default-ssl-backend=openssl
       --with-libidn2
+      --with_brotli
+      --with_zlib
       --with-librtmp
       --with-libssh2
       --without-libpsl
